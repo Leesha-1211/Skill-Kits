@@ -11,7 +11,7 @@ The website is Hosted [Here](https://skillkits.netlify.app/)
 ### Landing Page
 The landing page gives us a brief introduction about this app. Anyone can Signup if its a new user or login if its an old one. The syling of all the pages inside the app is done using "styled-components". AOS library (animate on scroll) is used to animate the content while scrolling!
 <br>
-![](https://github.com/Leesha-1211/Skill-Kits/blob/main/public/landing.png
+![](https://github.com/Leesha-1211/Skill-Kits/blob/main/public/landing.png)
 
 
 ### Authentication
