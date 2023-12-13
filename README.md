@@ -37,6 +37,7 @@ This screen consists of the subject Data. The assignments,notifications related 
 ### Submit Assignment
 When a student wants to submit a assignment, he/she can click on the assignment component and it will redirect them to another screen, where they can paste the google drive link of the assignment.
 <br>
+https://github.com/Leesha-1211/Skill-Kits/blob/main/public/assignmentsubmit.png
 
 
 ### Schedule and Assignments Deadline
