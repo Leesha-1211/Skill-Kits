@@ -11,55 +11,52 @@ The website is Hosted [Here](https://skillkits.netlify.app/)
 ### Landing Page
 The landing page gives us a brief introduction about this app. Anyone can Signup if its a new user or login if its an old one. The syling of all the pages inside the app is done using "styled-components". AOS library (animate on scroll) is used to animate the content while scrolling!
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/landing.png)
+
 
 ### Authentication
 The Student/Faculty is required to provide his email, username and password for signup.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/login.png)
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/signup.png)
 
 
 ### Top Navbar
 Once you are logged in, the top navbar will contain the button to join a class and a button to log out.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/navbar.png)
+
 
 ### Dashboard
 All the logged in users are directed to the dashboard page where there will be the list of subjects the student/faculty is a part of.Clicking on any of the componenet would redirect them to the subject screen.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/dashboard.png)
+
 
 ### Subject Screen
 This screen consists of the subject Data. The assignments,notifications related to the subject.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/subjectscreen.png)
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/subjectscreen2.png)
+
 
 
 ### Submit Assignment
 When a student wants to submit a assignment, he/she can click on the assignment component and it will redirect them to another screen, where they can paste the google drive link of the assignment.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/assignmentsubmit.png)
+
 
 ### Schedule and Assignments Deadline
 In the dashboard screen, there is a button called calendar, when clicked will display the schedule/assignments which are to be completed by the student with the deadline.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/schedule.png)
+
 
 ### Submissions Screen
 This is for the faculty members who wants to see the assignments submitted by the students.They can grade them here itself, and the marks will be notified to that particular student.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/submittedscreen.png)
+
 
 ### Join Class
 When a student clicks on the join class button in the dashboard, a dialog is opened asking for the necessary subject code, when clicked correctly will add the student to the subject.
 <br>
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/joinclass.png)
+
 
 ### Create Class
 This is a faculty operation which helps him create a class, when clicked on the create class button, a dialog is opened asking for name of the subject.When entered, it will create a subject and it will contain the subject code which can be used by the students to join the subject.
-![](https://github.com/Zeph-T/SkillKits/blob/master/public/createclass.png)
+
 
 ***
 ### Tech Stack and Concepts used:
@@ -81,7 +78,7 @@ This is a faculty operation which helps him create a class, when clicked on the 
 #### Clone the repo
 
    ```sh
-   git clone https://github.com/Zeph-T/SkillKits.git
+   git clone https://github.com/Leesha-1211/Skill-Kits
    ```
 *__Frontend__
 1. change the directory to Frontend
